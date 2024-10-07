@@ -1,0 +1,7 @@
+replace
+a new member
+add a new member
+clean balconny
+clean room
+wake up aat 5
+clean the code
