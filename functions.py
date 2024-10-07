@@ -16,6 +16,6 @@ def write_todos(todos_arg, filepath=FILEPATH):
         file_local.writelines(todos_arg)
 
 
-"""if __name__ == "__main__":
+if __name__ == "__main__":
     print("hello")
-    print(get_todos())"""
+    print(get_todos())
